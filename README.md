@@ -1,8 +1,4 @@
-### Profitable App Profiles for the App Store and Google Play Markets
+### [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/autgaard/data-science-misc-projects/blob/6d004505d8d0e3aa506cf7345fe3841a2a9c5e37/Profitable%20Apps.ipynb): This project is a data analysis for a client that builds free Android and iOS mobile apps that are available on Google Play and in the App Store. The goal for this project is to analyze data to help my client's developers understand what type of ads are likely to attract more users.
 
-**What the project is about:** This project is a data analysis for a client that builds free Android and iOS mobile apps that are available on Google Play and in the App Store.
-The main sources of revenue for this client are in-app ads, meaning that the number of users determines revenue for any given app — and the more users who see and engage with ads, the better.
-
-**Goal of the project:** The goal for this project is to analyze data to help client's developers understand what type of ads are likely to attract more users.
-
+### Finding Success on Hacker News: In this project, I compare two different types of posts from Hacker News, a popular site where technology related stories (or 'posts') are voted and commented upon. The goal is to determine both the type of post that receives the most comments on average and the best time to publish.
 
