@@ -2,5 +2,5 @@
 
 **[Finding Success on Hacker News](https://github.com/autgaard/data-science-misc-projects/blob/d17d3ac994faf79192d71b409aaf209ac30bbb2c/Hacker%20News.ipynb):** In this project, I compare two different types of posts from Hacker News, a popular site where technology related stories (or 'posts') are voted and commented upon. The goal is to determine the type of post that receives the most comments (on average) and the best time to publish.
 
-**[Analyzing Used Car Listings on Ebay](https://github.com/autgaard/data-science-misc-projects/blob/4ebe65506f1c2301d0341f4abbad4d2a835e9f97/Ebay%20Listings.ipynb):**
+**[Analyzing Used Car Listings on Ebay](https://github.com/autgaard/data-science-misc-projects/blob/4ebe65506f1c2301d0341f4abbad4d2a835e9f97/Ebay%20Listings.ipynb):** This project is a data cleaning and analysis of used car listings from eBay Kleinanzeigen, a classifieds section of the German eBay website. The aim of this project is to clean the data set and analyze the listings contained therein.
 
