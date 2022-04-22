@@ -6,4 +6,4 @@
 
 **[Indicators of Heavy Traffic on I-94](https://github.com/autgaard/data-science-misc-projects/blob/c456889cb90da914eb0d86f4a10df08a2f96badf/I-94%20Traffic%20Analysis.ipynb):** In this project, I analyze a dataset of westbound traffic on the I-94 Interstate highway. My goal is to determine a few indicators of heavy traffic on I-94. These indicators include weather type, time of the day, time of the week, etc.
 
-**[Visualizing Data on Exchange Rates]():** This project uses data storytelling and visuals to analyze the daily exchange rates of the Euro between 1999 and 2021. The primary objective of this project is to create storytelling data visualizations using Matplotlib.
+**[Visualizing Data on Exchange Rates](https://github.com/autgaard/data-science-misc-projects/blob/2be17d3db887ced067207797e6c093dccac75cc8/Exchange%20Rates.ipynb):** This project uses data storytelling and visuals to analyze the daily exchange rates of the Euro between 1999 and 2021. The primary objective of this project is to create storytelling data visualizations using Matplotlib.
