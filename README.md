@@ -5,3 +5,5 @@
 **[Analyzing Used Car Listings on Ebay](https://github.com/autgaard/data-science-misc-projects/blob/4ebe65506f1c2301d0341f4abbad4d2a835e9f97/Ebay%20Listings.ipynb):** This project is a data cleaning and analysis of used car listings from eBay Kleinanzeigen, a classifieds section of the German eBay website. The aim of this project is to clean the data set and analyze the listings contained therein.
 
 **[Indicators of Heavy Traffic on I-94](https://github.com/autgaard/data-science-misc-projects/blob/c456889cb90da914eb0d86f4a10df08a2f96badf/I-94%20Traffic%20Analysis.ipynb):** In this project, I analyze a dataset of westbound traffic on the I-94 Interstate highway. My goal is to determine a few indicators of heavy traffic on I-94. These indicators include weather type, time of the day, time of the week, etc.
+
+**[Visualizing Data on Exchange Rates]():** This project uses data storytelling and visuals to analyze the daily exchange rates of the Euro between 1999 and 2021. The primary objective of this project is to create storytelling data visualizations using Matplotlib.
