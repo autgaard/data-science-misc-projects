@@ -16,4 +16,4 @@
 
 **[Analyzing CIA Factbook Data Using SQL](https://github.com/autgaard/data-science-misc-projects/blob/69dcc0a2dfb8228efb11a66ac790d243a0adfce5/CIA%20Factbook.ipynb):**  In this project, I'll be working with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information such as population, annual population growth rate, and total land and water area of countries. The primary objective here is to use SQL in Jupyter Notebook to complete a general analysis of the data from this database.
 
-**[Answering Business Questions Using SQL]():** This project is all about using SQL to answer business questions, based on the Chinook database. The goal here is simply to get some practice with SQL in a real-world context.
+**[Answering Business Questions Using SQL](https://github.com/autgaard/data-science-misc-projects/blob/3a6a987c36b14755de5e11027be780bba4411487/Chinook.ipynb):** This project is all about using SQL to answer business questions, based on the Chinook database. The goal here is simply to get some practice with SQL in a real-world context.
